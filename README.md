@@ -6,4 +6,5 @@ Códigos fontes do site Marketiliza
 	Yuri David
 	Yanne Christine
 	Vinicius Nogueira
-##MARKETILIZA - REQUISITOS INFORMAIS
+## MARKETILIZA - REQUISITOS
+
